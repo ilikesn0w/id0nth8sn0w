@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1d0nth8sn0w
+- 👋 Hi, I’m @id0nth8sn0w
 - 👀 I’m interested in: EDK2
 - 🌱 I’m currently learning: С, C++, Assembly, Python
 - 💞️ I’m looking to collaborate on: Open to future collaborations
