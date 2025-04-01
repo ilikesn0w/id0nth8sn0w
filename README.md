@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilikesn0w
-- 👀 I’m interested in: EDK2
+- 👀 I’m interested in: iOS
 - 🌱 I’m currently learning: С, C++, Assembly, Python
 - 💞️ I’m looking to collaborate on: Open to future collaborations
 - 📫 How to reach me: 
